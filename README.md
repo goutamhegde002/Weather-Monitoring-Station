@@ -45,7 +45,7 @@ weather-monitoring-station/
 2. Deploy the web dashboard files to a web server or host it locally on the microcontroller.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+See the LICENSE file for more details.
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit a pull request with your improvements.
